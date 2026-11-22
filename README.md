@@ -1,3 +1,20 @@
+> **Fork of [taniarascia/react-tutorial](https://github.com/taniarascia/react-tutorial).** A walkthrough of basic React concepts (components, state, props, forms), kept for reference. The upstream README follows unchanged.
+
+## Architecture
+
+```mermaid
+flowchart LR
+    t["Tutorial"] --> src["src/<br/>components, state, props, form"] --> app["Create React App"]
+```
+
+## Related repos
+
+| Repo | Relationship |
+|---|---|
+| [taniarascia/react-tutorial](https://github.com/taniarascia/react-tutorial) | Upstream project |
+
+---
+
 # React Tutorial
 
 Learn the fundamentals of React, including simple and class components, state, props, and submitting form data.
